@@ -28,3 +28,9 @@ background-position: relative;
     margin-top: 90px;
     
 }
+#service{
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    background-size: cover;
+    height: 70vh;
+    font-size: "34px";
+}
