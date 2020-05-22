@@ -7,3 +7,24 @@ background-position: relative;
 
 }
 
+#text{
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    margin-top: 40px;
+}
+#p{
+    font-size: 10px;
+    color: white;
+}
+.meme{
+    text-align: center; 
+    
+}
+
+#about{
+    text-align: center;
+    font-size: "54px";
+    height: 50vh;
+    margin-top: 90px;
+    
+}
