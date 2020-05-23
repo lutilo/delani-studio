@@ -36,9 +36,8 @@ To start using this project:
 
 # Author Contact Information
 -[https://github.com/Lutilo]
--`0701259902`
--[@gmail.com]
+-[lutilojose@gmail.com]
 
 # License info
 MIT License
-Copyright (c) 2019 Brian Ndichu
+Copyright (c) 2020Joseph Lutilo
