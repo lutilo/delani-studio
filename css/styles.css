@@ -34,3 +34,50 @@ background-position: relative;
     height: 70vh;
     font-size: "34px";
 }
+.text-sh{
+    text-align: center;
+    font-size: 13px;
+    color: white;
+    font-size: "54px";
+    
+}
+#text-sp{
+    margin-top: "100vh";
+    text-align: center;
+    color: white;
+    font-size: "54px";
+}
+.work{
+    height: "60vh";
+}
+.col-md-4{
+    text-align: center;
+}
+
+#contact{
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    height: 60vh;
+    background-position: relative;
+    background-size: cover;
+}
+.contact-us{
+    text-align: center;
+    font-size: "15px";
+    color: white;
+}
+#showing{
+    display: none;
+}
+  .hide{
+      display: none;
+  }
+  input{
+      background: none;
+  }
+  textarea{
+      background: none;
+      color: white;
+  }
+::placeholder{
+    color: white;
+}
