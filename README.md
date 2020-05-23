@@ -13,26 +13,28 @@ To start using this project:
 - `cd hello-world`
 - `atom .`
 - `code .` [//]: # (this is if Visual Studio Code is your preferred text editor)
-#BDD
-# Behaviour
+# BDD
+## Behaviour
 * When the mouse is hovered on the 'portfolio' section, images hover with a white transparent box. on the 'what we do' section, icons toggle between the respective description when clicked. When name, email and feedback message are entered in the form, a pop up appears notifying the user that Delani Studio has received the message and thanks the user for their feedback. 
 # input example
 * Name and email
 * A text area to leave comment
 # output example
 * A pop up message
-#Techlologies Used
-*HTML
-*CSS
-*Bootstrap
-*JavaScript
-*Jquery
+
+
 
 
 # Technology used 
--`html`
--`css`
--`java script`
+-`HTML`
+
+-`CSS`
+
+-`JavaScript`
+
+-`Jquery`
+
+-`Bootstrap`
 
 # Author Contact Information
 -[https://github.com/Lutilo]
