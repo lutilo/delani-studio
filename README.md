@@ -40,4 +40,4 @@ To start using this project:
 
 # License info
 MIT License
-Copyright (c) 2020Joseph Lutilo
+Copyright (c) 2020 Joseph Lutilo
